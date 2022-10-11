@@ -1,0 +1,3 @@
+Placeholder file so that the resources-folder gets pushed to Git --- can be ignored.
+
+The story file for your test will be generated automatically under this resources-folder when your project is built.
